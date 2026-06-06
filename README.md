@@ -14,6 +14,7 @@ Currently, the repository features three main applications in clinical and exper
 
 ## Project Structure
 ├── data/                   # Sample images or instructions to download the datasets
+├── notebooks/              # Jupyter notebooks containing exploratory data analysis (EDA)
 ├── src/
 │   ├── lung_segmentation/  # Scripts for lung contour extraction
 │   ├── skin_lesions/       # Scripts for skin lesion preprocessing and classification
